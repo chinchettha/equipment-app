@@ -1,0 +1,13 @@
+{
+    "projects": [
+      {
+        "src": "project-app/",
+        "use": "@vercel/static-build"
+      },
+      {
+        "src": "equipment-app/",
+        "use": "@vercel/node"
+      }
+    ]
+  }
+  
